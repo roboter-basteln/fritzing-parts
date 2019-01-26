@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   gorn="0"
+   id="Layer_1"
+   height="0.18921198in"
+   y="0px"
+   version="1.1"
+   width="0.19686in"
+   x="0px"
+   viewBox="0 0 19.686 18.921198">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <desc
+     id="desc2">
+    <referenceFile>prefix0000_6b2d678a56664f0bb873c511037acad5_1_breadboard.svg</referenceFile>
+  </desc>
+  <g
+     id="breadboard">
+    <rect
+       style="fill:#8c8c8c;stroke-width:0.99999988"
+       x="5"
+       width="2"
+       y="9.5789804"
+       height="2"
+       id="connector0pin"
+       gorn="0.0.0.1" />
+    <rect
+       style="fill:#8c8c8c;stroke-width:0.99999988"
+       x="15"
+       width="2"
+       y="9.5789804"
+       height="2"
+       id="connector1pin"
+       gorn="0.0.0.0" />
+    <circle
+       r="9.4605989"
+       cy="9.460598"
+       cx="10.182169"
+       id="path845"
+       style="opacity:1;fill:#0d0033;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       d="M 1.9590875,14.138617 A 9.4605989,9.4605989 0 0 1 1.9763597,4.7523471 L 10.182169,9.460598 Z"
+       style="opacity:1;fill:#d2eeff;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle849" />
+    <circle
+       style="opacity:1;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle847"
+       cx="10.182169"
+       cy="9.460598"
+       r="7.1122236" />
+    <path
+       id="path851"
+       d="M 5.5310164,1.3536922 A 9.4605998,9.4605998 0 0 0 0.82133016,9.4732956 l 0.68169524,0.00444 A 8.789635,8.789635 0 0 1 2.6706036,5.1381765 8.789635,8.789635 0 0 1 5.8710514,1.9394183 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001"
+       x="13.503468"
+       y="13.111908"
+       font-size="4.86110306"
+       id="text133">+</text>
+    <text
+       style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001"
+       id="text3685"
+       font-size="4.86110306"
+       y="13.111908"
+       x="3.4923093">-</text>
+    <rect
+       y="9.460598"
+       x="4.116127"
+       height="0.17007594"
+       width="11.962008"
+       id="rect856"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect858"
+       width="11.962008"
+       height="0.17007594"
+       x="-15.810101"
+       y="10.040439" />
+  </g>
+</svg>
