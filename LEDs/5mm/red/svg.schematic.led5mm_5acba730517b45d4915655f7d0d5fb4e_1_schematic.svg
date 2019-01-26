@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 5.334 7.86694"
+   x="0in"
+   width="0.21in"
+   version="1.2"
+   y="0in"
+   height="0.309722in"
+   id="svg41">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs45" />
+  <desc
+     id="desc2">
+    <referenceFile>prefix0000_5acba730517b45d4915655f7d0d5fb4e_1_schematic.svg</referenceFile>
+  </desc>
+  <g
+     id="schematic"
+     gorn="0.0">
+    <line
+       y2="2.66347"
+       y1="2.66347"
+       x2="5.2069998"
+       class="other"
+       x1="0.127"
+       id="line4"
+       style="stroke:#000000;stroke-width:0.25400001;stroke-linecap:round" />
+    <line
+       y2="7.8255243"
+       y1="6.9826217"
+       x2="2.6670001"
+       class="other"
+       x1="2.6670001"
+       id="line6"
+       style="stroke:#000000;stroke-width:0.1524;stroke-linecap:round" />
+    <line
+       connectorname="+"
+       y2="2.66347"
+       y1="0.123472"
+       x2="2.6670001"
+       class="pin"
+       x1="2.6670001"
+       id="connector1pin"
+       gorn="0.0.6"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       x="2.6670001"
+       width="9.9999997e-005"
+       y="0.123472"
+       height="9.9999997e-005"
+       class="terminal"
+       id="connector1terminal"
+       gorn="0.0.7"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <g
+       transform="translate(2.29658,1.39347)"
+       id="g26">
+      <g
+         id="g24">
+        <g
+           transform="rotate(-90)"
+           id="g22">
+          <g
+             id="g20">
+            <text
+               x="0"
+               font-size="0.881944"
+               y="0"
+               class="text"
+               id="text18"
+               style="font-size:0.881944px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">2</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line
+       connectorname="-"
+       y2="7.7868934"
+       y1="10.326893"
+       x2="2.6670001"
+       class="pin"
+       x1="2.6670001"
+       id="connector0pin"
+       gorn="0.0.9"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       x="2.6670001"
+       width="9.9999997e-005"
+       y="10.326893"
+       height="9.9999997e-005"
+       class="terminal"
+       id="connector0terminal"
+       gorn="0.0.10"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <g
+       transform="translate(2.29658,9.0568929)"
+       id="g38">
+      <g
+         id="g36">
+        <g
+           transform="rotate(-90)"
+           id="g34">
+          <g
+             id="g32">
+            <text
+               x="0"
+               font-size="0.881944"
+               y="0"
+               class="text"
+               id="text30"
+               style="font-size:0.881944px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">1</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line
+       style="stroke:#000000;stroke-width:0.25400001;stroke-linecap:round"
+       id="line854"
+       x1="0.127"
+       class="other"
+       x2="5.2069998"
+       y1="6.9219513"
+       y2="6.9219513" />
+    <line
+       y2="2.663389"
+       y1="6.8658481"
+       x2="0.12699999"
+       class="other"
+       x1="2.6298411"
+       id="line858"
+       style="stroke:#000000;stroke-width:0.25400001;stroke-linecap:round" />
+    <line
+       style="stroke:#000000;stroke-width:0.25400001;stroke-linecap:round"
+       id="line860"
+       x1="2.6902773"
+       class="other"
+       x2="5.2070007"
+       y1="6.9251599"
+       y2="2.6651409" />
+  </g>
+</svg>
