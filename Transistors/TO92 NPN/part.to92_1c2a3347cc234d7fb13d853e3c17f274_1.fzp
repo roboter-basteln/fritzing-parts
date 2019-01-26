@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module referenceFile="to92_1c2a3347cc234d7fb13d853e3c17f274_1.fzp" moduleId="to92_1c2a3347cc234d7fb13d853e3c17f274_1" fritzingVersion="0.9.3">
+  <version>1</version>
+  <author>Thomas Weller</author>
+  <title>TO92</title>
+  <label>Q</label>
+  <date>Sat Jan 26 2019</date>
+  <tags>
+    <tag>npn</tag>
+    <tag>contrib</tag>
+    <tag>transistor</tag>
+  </tags>
+  <properties>
+    <property name="type">NPN (EBC)</property>
+    <property name="layer"/>
+    <property name="family">bipolar transistor</property>
+    <property name="part number"/>
+    <property name="variant">top view</property>
+    <property name="package">TO92 [THT]</property>
+  </properties>
+  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;TO92 top view&lt;/body&gt;&lt;/html&gt;</description>
+  <views>
+    <iconView>
+      <layers image="icon/to92_1c2a3347cc234d7fb13d853e3c17f274_1_icon.svg">
+        <layer layerId="icon"/>
+      </layers>
+    </iconView>
+    <breadboardView>
+      <layers image="breadboard/to92_1c2a3347cc234d7fb13d853e3c17f274_1_breadboard.svg">
+        <layer layerId="breadboard"/>
+      </layers>
+    </breadboardView>
+    <schematicView flipvertical="true" fliphorizontal="true">
+      <layers image="schematic/to92_1c2a3347cc234d7fb13d853e3c17f274_1_schematic.svg">
+        <layer layerId="schematic"/>
+      </layers>
+    </schematicView>
+    <pcbView>
+      <layers image="pcb/to92_1c2a3347cc234d7fb13d853e3c17f274_1_pcb.svg">
+        <layer layerId="copper0"/>
+        <layer layerId="silkscreen"/>
+        <layer layerId="copper1"/>
+      </layers>
+    </pcbView>
+  </views>
+  <connectors>
+    <connector name="E" type="male" id="connector0">
+      <description>Emitter</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector0pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector2pin" layer="copper0"/>
+          <p svgId="connector2pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector name="B" type="male" id="connector1">
+      <description>Base</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector1pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector1pin" layer="copper0"/>
+          <p svgId="connector1pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector name="C" type="male" id="connector2">
+      <description>Collector</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector2pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector0pin" layer="copper0"/>
+          <p svgId="connector0pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+  </connectors>
+</module>
