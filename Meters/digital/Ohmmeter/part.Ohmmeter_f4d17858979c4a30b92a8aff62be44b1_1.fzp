@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.9.3" referenceFile="Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1.fzp" moduleId="f4d17858979c4a30b92a8aff62be44b1">
+ <version>1</version>
+ <author>Thomas Weller</author>
+ <title>Ohmmeter</title>
+ <label>Ohmmeter</label>
+ <date>Sun Jan 27 2019</date>
+ <tags>
+  <tag>Multimeter</tag>
+  <tag>Ohm</tag>
+  <tag>Ohmmeter</tag>
+ </tags>
+ <properties>
+  <property name="family">Multimeter</property>
+  <property name="variant">digitalOhmmeter</property>
+  <property name="measure">Ohm</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+ </properties>
+ <description>Digital Multimeter, drawing based on PeakTech 3340</description>
+ <views>
+  <iconView>
+   <layers image="icon/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <schematicView>
+   <layers image="schematic/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+  <breadboardView>
+   <layers image="breadboard/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+ </views>
+ <connectors>
+  <connector id="connector1" type="male" name="COM">
+   <description>Ground</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin" terminalId="connector1terminal"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="Input">
+   <description>Input</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url/>
+</module>
