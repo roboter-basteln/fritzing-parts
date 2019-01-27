@@ -50,12 +50,12 @@
        gorn="0.0.0.0"
        style="fill:#8c8c8c;stroke-width:0.99999994" />
     <path
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 9.0083224,1.4969732e-4 A 9.460599,9.460599 0 0 0 2.2741104,2.8260777 V 16.101224 A 9.460599,9.460599 0 0 0 9.0083224,18.921048 9.460599,9.460599 0 0 0 18.468771,9.4605987 9.460599,9.460599 0 0 0 9.0083224,1.4969732e-4 Z"
-       id="path845" />
+       id="plate" />
     <circle
-       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="circle847"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="housing"
        cx="9.0077925"
        cy="9.4607477"
        r="7.1122236" />
@@ -64,16 +64,26 @@
        x="12.329093"
        y="17.20096"
        font-size="4.86110306"
-       id="text133">+</text>
+       id="plus">+</text>
     <text
        style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001"
-       id="text3685"
+       id="minus"
        font-size="4.86110306"
        y="17.20096"
        x="2.3179328">-</text>
     <path
-       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.75;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 11.941881,3.4185707 -1.354981,2.55127 a 4.2259394,4.2259394 0 0 1 1.957195,2.193197 l 2.68758,-1.05184 a 7.1122239,7.1122239 0 0 0 -3.289794,-3.692627 z"
-       id="circle827" />
+       id="glare" />
   </g>
+  <text
+     id="text823"
+     y="11.99381"
+     x="5.9585075"
+     style="font-style:normal;font-weight:normal;font-size:6.41781187px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.60392157;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff;fill-opacity:0.60392157;stroke-width:1.04166675px"
+       y="11.99381"
+       x="5.9585075"
+       id="tspan821">IR</tspan></text>
 </svg>

@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<module fritzingVersion="0.9.3" moduleId="led5mm_5acba730517b45d4915655f7d0d5fb4e_2" referenceFile="led5mm_5acba730517b45d4915655f7d0d5fb4e_1.fzp">
+<module fritzingVersion="0.9.3" moduleId="led5mm_yellow_5acba730517b45d4915655f7d0d5fb4e_2" referenceFile="led5mm_5acba730517b45d4915655f7d0d5fb4e_2.fzp">
   <version>2</version>
   <author>Thomas Weller</author>
-  <title>Red LED 5mm</title>
+  <title>Yellow LED 5mm</title>
   <label>LED</label>
-  <date>Sat Jan 26 2019</date>
+  <date>Sun Jan 27 2019</date>
   <tags>
     <tag>LED</tag>
-	<tag>Red LED</tag>
+	<tag>Yellow LED</tag>
     <tag>indicator</tag>
   </tags>
   <properties>
 	  <property name="package">5 mm [THT]</property>
 	  <property name="family">LED</property>
-	  <property name="color" showInLabel="yes">Red</property>
+	  <property name="color" showInLabel="yes">Yellow</property>
 	  <property name="current" showInLabel="yes"></property>
     <property name="variant">top view</property>
   </properties>
   <description>Generic 5mm LED</description>
   <views>
     <iconView>
-      <layers image="icon/led5mm_5acba730517b45d4915655f7d0d5fb4e_2_icon.svg">
+      <layers image="icon/led5mm_yellow_5acba730517b45d4915655f7d0d5fb4e_2_icon.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
     <breadboardView fliphorizontal="true" flipvertical="true">
-      <layers image="breadboard/led5mm_5acba730517b45d4915655f7d0d5fb4e_2_breadboard.svg">
+      <layers image="breadboard/led5mm_yellow_5acba730517b45d4915655f7d0d5fb4e_2_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
