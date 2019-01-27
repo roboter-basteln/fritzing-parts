@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<module fritzingVersion="0.9.3" moduleId="led5mm_5acba730517b45d4915655f7d0d5fb4e_1" referenceFile="led5mm_5acba730517b45d4915655f7d0d5fb4e_1.fzp">
-  <version>1</version>
+<module fritzingVersion="0.9.3" moduleId="led5mm_5acba730517b45d4915655f7d0d5fb4e_2" referenceFile="led5mm_5acba730517b45d4915655f7d0d5fb4e_1.fzp">
+  <version>2</version>
   <author>Thomas Weller</author>
   <title>Red LED 5mm</title>
   <label>LED</label>
@@ -30,7 +30,7 @@
       </layers>
     </breadboardView>
     <schematicView>
-      <layers image="schematic/led5mm_5acba730517b45d4915655f7d0d5fb4e_1_schematic.svg">
+      <layers image="schematic/led5mm_5acba730517b45d4915655f7d0d5fb4e_2_schematic.svg">
         <layer layerId="schematic"/>
       </layers>
     </schematicView>
