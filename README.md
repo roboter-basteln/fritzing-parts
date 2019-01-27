@@ -17,4 +17,4 @@ You'll find multimeters with Volt, Ampere and Ohm operation. They are not to sca
 
 ![Meters](Description/Meters%20icon.png) ![Meters](Description/Digital%20meter%20icon.png)
 
-![Meters](Description/Meter%20breadboard.png) ![Meters](Description/Digital%20Meter%20breadboard.png)
+![Meters](Description/Meter%20breadboard.png) ![Meters](Description/Digital%20meter%20breadboard.png)
