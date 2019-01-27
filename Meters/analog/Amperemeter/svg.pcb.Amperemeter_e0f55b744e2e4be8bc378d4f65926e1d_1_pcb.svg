@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="0" viewBox="0 0 480 433.701" baseProfile="tiny" gorn="0" version="1.2"  height="0.433701in" width="0.48in">
+    <desc id="0.0" >
+        <referenceFile id="0.0.0" >Multimeter.fzp_4fadd496ac5648b4b23fba43ac30db8c_2_terminal.svg</referenceFile>
+    </desc>
+    <g id="silkscreen" gorn="0.1" >
+        <line stroke="white" id="vertical-left" stroke-width="10" x1="20" y2="423.701" gorn="0.1.0" x2="20"  y1="20"/>
+        <line stroke="white" id="bottom" stroke-width="10" x1="20" y2="423.701" gorn="0.1.1" x2="460"  y1="423.701"/>
+        <line stroke="white" id="vertical-right" stroke-width="10" x1="460" y2="20" gorn="0.1.2" x2="460"  y1="423.701"/>
+        <line stroke="white" id="top" stroke-width="10" x1="460" y2="20" gorn="0.1.3" x2="20"  y1="20"/>
+        <line stroke="white" id="mid-vertical" stroke-width="5" x1="380" y2="20" gorn="0.1.4" x2="380"  y1="423.701"/>
+    </g>
+    <g id="copper1" gorn="0.2" >
+        <g id="copper0" gorn="0.2.0" >
+            <rect stroke="rgb(255, 191, 0)" id="square" stroke-width="20" y="91.77165669291338" x="168.3464566929134" gorn="0.2.0.0"  height="63.30708661417324" width="63.30708661417324" fill="none"/>
+            <circle stroke="rgb(255, 191, 0)" id="connector1pin" stroke-width="20" cx="200" cy="123.425" gorn="0.2.0.1"  r="31.65354330708662" fill="none"/>
+            <rect stroke="none" id="connector1terminal" stroke-width="0" y="123.342" x="202.05" gorn="0.2.0.2"  height="0.166614" width="0.166614" fill="none"/>
+            <circle stroke="rgb(255, 191, 0)" id="connector2pin" stroke-width="20" cx="200" cy="320.276" gorn="0.2.0.3"  r="31.65354330708662" fill="none"/>
+        </g>
+    </g>
+</svg>
