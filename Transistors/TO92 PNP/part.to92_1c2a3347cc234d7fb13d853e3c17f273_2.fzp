@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<module referenceFile="to92_1c2a3347cc234d7fb13d853e3c17f274_1.fzp" moduleId="to92_1c2a3347cc234d7fb13d853e3c17f274_1" fritzingVersion="0.9.3">
-  <version>1</version>
+<module referenceFile="to92_1c2a3347cc234d7fb13d853e3c17f273_2.fzp" moduleId="to92_1c2a3347cc234d7fb13d853e3c17f273_2" fritzingVersion="0.9.3">
+  <version>2</version>
   <author>Thomas Weller</author>
   <title>TO92</title>
   <label>Q</label>
   <date>Sat Jan 26 2019</date>
   <tags>
-    <tag>npn</tag>
+    <tag>pnp</tag>
     <tag>contrib</tag>
     <tag>transistor</tag>
   </tags>
   <properties>
-    <property name="type">NPN (EBC)</property>
+    <property name="type">PNP (EBC)</property>
     <property name="layer"/>
     <property name="family">bipolar transistor</property>
     <property name="part number"/>
@@ -22,22 +22,22 @@
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;TO92 top view&lt;/body&gt;&lt;/html&gt;</description>
   <views>
     <iconView>
-      <layers image="icon/to92_1c2a3347cc234d7fb13d853e3c17f274_1_icon.svg">
+      <layers image="icon/to92_1c2a3347cc234d7fb13d853e3c17f273_2_icon.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
     <breadboardView>
-      <layers image="breadboard/to92_1c2a3347cc234d7fb13d853e3c17f274_1_breadboard.svg">
+      <layers image="breadboard/to92_1c2a3347cc234d7fb13d853e3c17f273_2_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
     <schematicView flipvertical="true" fliphorizontal="true">
-      <layers image="schematic/to92_1c2a3347cc234d7fb13d853e3c17f274_1_schematic.svg">
+      <layers image="schematic/to92_1c2a3347cc234d7fb13d853e3c17f273_1_schematic.svg">
         <layer layerId="schematic"/>
       </layers>
     </schematicView>
     <pcbView>
-      <layers image="pcb/to92_1c2a3347cc234d7fb13d853e3c17f274_1_pcb.svg">
+      <layers image="pcb/to92_1c2a3347cc234d7fb13d853e3c17f273_1_pcb.svg">
         <layer layerId="copper0"/>
         <layer layerId="silkscreen"/>
         <layer layerId="copper1"/>
