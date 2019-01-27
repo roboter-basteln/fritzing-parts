@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 16.573203 18.920898"
+   viewBox="0 0 16.573204 18.920898"
    x="0px"
-   width="0.16573203in"
+   width="0.16573204in"
    version="1.1"
    y="0px"
    height="0.18920898in"
@@ -32,7 +32,7 @@
     <referenceFile>prefix0000_5acba730517b45d4915655f7d0d5fb4e_1_breadboard.svg</referenceFile>
   </desc>
   <g
-     transform="translate(-3.0699453)"
+     transform="translate(-3.0699453,-0.88190625)"
      id="breadboard">
     <rect
        gorn="0.0.0.1"
@@ -51,31 +51,30 @@
        x="15"
        style="fill:#8c8c8c;stroke-width:0.99999988" />
     <path
-       id="path845"
-       transform="scale(1.0416667)"
-       d="M 9.7753906,0 A 9.082175,9.082175 0 0 0 3.3105469,2.7128906 V 15.457031 A 9.082175,9.082175 0 0 0 9.7753906,18.164062 9.082175,9.082175 0 0 0 18.857422,9.0820312 9.082175,9.082175 0 0 0 9.7753906,0 Z"
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       id="plate"
+       d="M 10.182699,0.88190625 A 9.4605993,9.4605993 0 0 0 3.4484863,3.7078341 V 16.982981 a 9.4605993,9.4605993 0 0 0 6.7342127,2.819824 9.4605993,9.4605993 0 0 0 9.46045,-9.460449 9.4605993,9.4605993 0 0 0 -9.46045,-9.46044975 z"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <circle
        r="7.1122236"
-       cy="9.460598"
+       cy="10.342505"
        cx="10.182169"
-       id="circle847"
-       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       id="housing"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.37735853;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
-       id="text133"
+       id="plus"
        font-size="4.86110306"
-       y="17.200811"
+       y="18.082716"
        x="13.503468"
        style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001">+</text>
     <text
-       x="3.4923093"
-       y="17.200811"
+       x="3.4923096"
+       y="18.082716"
        font-size="4.86110306"
-       id="text3685"
+       id="minus"
        style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001">-</text>
     <path
-       id="circle827"
-       d="m 13.116257,3.4184209 -1.35498,2.5512697 a 4.2259394,4.2259394 0 0 1 1.957194,2.1931967 L 16.406052,7.111048 A 7.1122239,7.1122239 0 0 0 13.116257,3.4184209 Z"
-       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       id="glare"
+       d="m 13.116257,4.3003272 -1.35498,2.5512697 A 4.2259394,4.2259394 0 0 1 13.718471,9.044794 L 16.406052,7.9929543 A 7.1122239,7.1122239 0 0 0 13.116257,4.3003272 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.60377359;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>

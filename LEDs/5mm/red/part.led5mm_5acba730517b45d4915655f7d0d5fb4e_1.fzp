@@ -13,19 +13,19 @@
   <properties>
 	  <property name="package">5 mm [THT]</property>
 	  <property name="family">LED</property>
-	  <property name="color" showInLabel="yes">Red (633nm)</property>
+	  <property name="color" showInLabel="yes">Red</property>
 	  <property name="current" showInLabel="yes"></property>
     <property name="variant">top view</property>
   </properties>
   <description>Generic 5mm LED</description>
   <views>
     <iconView>
-      <layers image="icon/led5mm_5acba730517b45d4915655f7d0d5fb4e_1_icon.svg">
+      <layers image="icon/led5mm_5acba730517b45d4915655f7d0d5fb4e_2_icon.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
     <breadboardView fliphorizontal="true" flipvertical="true">
-      <layers image="breadboard/led5mm_5acba730517b45d4915655f7d0d5fb4e_1_breadboard.svg">
+      <layers image="breadboard/led5mm_5acba730517b45d4915655f7d0d5fb4e_2_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
