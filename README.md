@@ -10,3 +10,10 @@ You'll find LEDs, transistors and capacitors in top view, so that they take less
 
 ![LEDs](Description/LEDs%20top%20view%20icon.png) ![Capacitor](Description/Capacitor%20top%20view%20icon.png) ![Transistors](Description/Transistors%20top%20view%20icon.png)
 ![LEDs](Description/LEDs%20top%20view%20breadboard.png) ![Capacitor](Description/Capacitor%20top%20view%20breadboard.png) ![Transistors](Description/Transistors%20top%20view%20breadboard.png)
+
+## Meters
+
+You'll find multimeters with Volt, Ampere and Ohm operation. They are not to scale, since that would use too much space.
+
+![Meters](Description/Meters%20icon.png)
+![Meters](Description/Meter%20breadboard.png)
