@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   gorn="0"
+   id="Layer_1"
+   height="0.18921198in"
+   y="0px"
+   version="1.1"
+   width="0.19686in"
+   x="0px"
+   viewBox="0 0 19.686 18.921198">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <desc
+     id="desc2">
+    <referenceFile>prefix0000_5acba730517b45d4915655f7d0d5fb4e_1_breadboard.svg</referenceFile>
+  </desc>
+  <g
+     id="breadboard">
+    <rect
+       x="4.0629997"
+       width="4"
+       y="7.5789804"
+       height="4"
+       id="connector0pin"
+       gorn="0.0.0.1"
+       style="fill:#8c8c8c;stroke-width:0.99999994" />
+    <rect
+       x="14.063001"
+       width="4"
+       y="7.5789804"
+       height="4"
+       id="connector1pin"
+       gorn="0.0.0.0"
+       style="fill:#8c8c8c;stroke-width:0.99999994" />
+    <path
+       style="opacity:1;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 9.0083224,1.4969732e-4 A 9.460599,9.460599 0 0 0 2.2741104,2.8260777 V 16.101224 A 9.460599,9.460599 0 0 0 9.0083224,18.921048 9.460599,9.460599 0 0 0 18.468771,9.4605987 9.460599,9.460599 0 0 0 9.0083224,1.4969732e-4 Z"
+       id="plate" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:2.08333349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="housing"
+       cx="9.0077925"
+       cy="9.4607477"
+       r="7.1122236" />
+    <text
+       style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001"
+       x="12.329093"
+       y="17.20096"
+       font-size="4.86110306"
+       id="plus">+</text>
+    <text
+       style="font-size:4.86110306px;font-family:OCRA;fill:#ffffff;stroke-width:0.10000001"
+       id="minus"
+       font-size="4.86110306"
+       y="17.20096"
+       x="2.3179328">-</text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.75;stroke:none;stroke-width:2.08333373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 11.941881,3.4185707 -1.354981,2.55127 a 4.2259394,4.2259394 0 0 1 1.957195,2.193197 l 2.68758,-1.05184 a 7.1122239,7.1122239 0 0 0 -3.289794,-3.692627 z"
+       id="glare" />
+  </g>
+  <text
+     id="text823"
+     y="11.99381"
+     x="5.9585075"
+     style="font-style:normal;font-weight:normal;font-size:6.41781187px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.60392157;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff;fill-opacity:0.60392157;stroke-width:1.04166675px"
+       y="11.99381"
+       x="5.9585075"
+       id="tspan821">IR</tspan></text>
+</svg>
