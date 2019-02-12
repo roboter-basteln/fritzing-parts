@@ -19,8 +19,8 @@
    height="0.583333in"
    width="0.883681in"
    style="enable-background:new -246.749 450.083 63.625 42;"
-   sodipodi:docname="Multimeter.fzp_4fadd496ac5648b4b23fba43ac30db8c_1_schematic.svg"
-   inkscape:version="0.92.0 r15299"><sodipodi:namedview
+   sodipodi:docname="svg.schematic.Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_schematic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -29,12 +29,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
      id="namedview52"
      showgrid="false"
      inkscape:zoom="13.390956"
-     inkscape:cx="45.990766"
+     inkscape:cx="32.324826"
      inkscape:cy="16.619953"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -95,11 +95,12 @@
                    gorn="0.3.0.0.0.1.0.3.0"><g
                      id="g15"
                      gorn="0.3.0.0.0.1.0.3.0.0"><text
-                       id="text13"
-                       y="2.796689"
-                       x="-2.350275"
-                       gorn="0.3.0.0.0.1.0.3.0.0.0"
-                       style="font-size:5.46570015px;font-family:MyriadPro-Regular;display:none;enable-background:new">+</text>
+   id="text13"
+   y="2.796689"
+   x="-2.350275"
+   gorn="0.3.0.0.0.1.0.3.0.0.0"
+   style="font-size:5.46570015px;font-family:MyriadPro-Regular;display:none;enable-background:new">+</text>
+
 </g></g></g><g
                  transform="matrix(0.9195,0,0,1,-187.3276,467.4846)"
                  id="g18"><g
@@ -107,11 +108,12 @@
                    gorn="0.3.0.0.0.1.0.4.0"><g
                      id="g21"
                      gorn="0.3.0.0.0.1.0.4.0.0"><text
-                       id="text19"
-                       y="3.9326432"
-                       x="0.76984859"
-                       gorn="0.3.0.0.0.1.0.4.0.0.0"
-                       style="font-size:5.46570015px;font-family:MyriadPro-Regular;display:none;enable-background:new">-</text>
+   id="text19"
+   y="3.9326432"
+   x="0.76984859"
+   gorn="0.3.0.0.0.1.0.4.0.0.0"
+   style="font-size:5.46570015px;font-family:MyriadPro-Regular;display:none;enable-background:new">-</text>
+
 </g></g></g><rect
                  id="connector2pin"
                  y="470.41296"
@@ -140,11 +142,12 @@
                          id="text28"
                          gorn="0.3.0.0.0.1.1.0.0.0.0.0"
                          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.98330307px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#010101;stroke-width:1"><text
-                           id="tspan4537"
-                           y="0.48576146"
-                           x="1.6451825"
-                           gorn="0.3.0.0.0.1.1.0.0.0.0.0.0"
-                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1">A</text>
+   id="tspan4537"
+   y="0.48576146"
+   x="1.1064304"
+   gorn="0.3.0.0.0.1.1.0.0.0.0.0.0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1">Ω</text>
+
 </g></g></g></g></g></g><g
                id="A"
                gorn="0.3.0.0.0.1.2"
@@ -160,11 +163,12 @@
                          id="text35"
                          gorn="0.3.0.0.0.1.2.0.0.0.0.0"
                          style="font-size:17.88082504px;font-family:DroidSans;display:inline;fill:#010101;stroke-width:0.99999994"><text
-                           id="tspan4539"
-                           y="1.2820475"
-                           x="3.94858"
-                           gorn="0.3.0.0.0.1.2.0.0.0.0.0.0"
-                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.99999994">A</text>
+   id="tspan4539"
+   y="1.2820475"
+   x="3.94858"
+   gorn="0.3.0.0.0.1.2.0.0.0.0.0.0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.99999994">A</text>
+
 </g></g></g></g></g></g><g
                id="g45"
                gorn="0.3.0.0.0.1.3"

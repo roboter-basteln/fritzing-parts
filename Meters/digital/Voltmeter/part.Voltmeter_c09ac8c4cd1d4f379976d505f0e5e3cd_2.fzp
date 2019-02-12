@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module fritzingVersion="0.9.3" referenceFile="Voltmeter_c09ac8c4cd1d4f379976d505f0e5e3cd_1.fzp" moduleId="c09ac8c4cd1d4f379976d505f0e5e3cd">
- <version>1</version>
+<module fritzingVersion="0.9.3" referenceFile="Voltmeter_c09ac8c4cd1d4f379976d505f0e5e3cd_2.fzp" moduleId="c09ac8c4cd1d4f379976d505f0e5e3cd">
+ <version>2</version>
  <author>Thomas Weller</author>
  <title>Voltmeter</title>
  <label>Voltmeter</label>
- <date>Sun Jan 27 2019</date>
+ <date>Tue Feb 12 2019</date>
  <tags>
   <tag>Multimeter</tag>
   <tag>Volt</tag>
@@ -25,7 +25,7 @@
    </layers>
   </iconView>
   <schematicView>
-   <layers image="schematic/Voltmeter_c09ac8c4cd1d4f379976d505f0e5e3cd_1_schematic.svg">
+   <layers image="schematic/Voltmeter_c09ac8c4cd1d4f379976d505f0e5e3cd_2_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>

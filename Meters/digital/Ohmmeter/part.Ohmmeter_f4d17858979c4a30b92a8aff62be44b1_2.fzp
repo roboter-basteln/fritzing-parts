@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module fritzingVersion="0.9.3" referenceFile="Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1.fzp" moduleId="f4d17858979c4a30b92a8aff62be44b1">
- <version>1</version>
+<module fritzingVersion="0.9.3" referenceFile="Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_2.fzp" moduleId="f4d17858979c4a30b92a8aff62be44b1">
+ <version>2</version>
  <author>Thomas Weller</author>
  <title>Ohmmeter</title>
  <label>Ohmmeter</label>
- <date>Sun Jan 27 2019</date>
+ <date>Tue Feb 12 2019</date>
  <tags>
   <tag>Multimeter</tag>
   <tag>Ohm</tag>
@@ -25,7 +25,7 @@
    </layers>
   </iconView>
   <schematicView>
-   <layers image="schematic/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_1_schematic.svg">
+   <layers image="schematic/Ohmmeter_f4d17858979c4a30b92a8aff62be44b1_2_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
